@@ -1,0 +1,33 @@
+c:\users\x556\documents\visual studio 2015\Projects\YazılımSınamaÖdev1\YazılımSınamaÖdev1\bin\Debug\YazılımSınamaÖdev1.exe.config
+C:\Users\X556\Documents\Visual Studio 2015\Projects\YazılımSınamaÖdev1\YazılımSınamaÖdev1\bin\Debug\YazılımSınamaÖdev1.exe
+C:\Users\X556\Documents\Visual Studio 2015\Projects\YazılımSınamaÖdev1\YazılımSınamaÖdev1\bin\Debug\YazılımSınamaÖdev1.pdb
+C:\Users\X556\Documents\Visual Studio 2015\Projects\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.csprojResolveAssemblyReference.cache
+C:\Users\X556\Documents\Visual Studio 2015\Projects\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.Form1.resources
+C:\Users\X556\Documents\Visual Studio 2015\Projects\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.Properties.Resources.resources
+C:\Users\X556\Documents\Visual Studio 2015\Projects\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.csproj.GenerateResource.Cache
+C:\Users\X556\Documents\Visual Studio 2015\Projects\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.exe
+C:\Users\X556\Documents\Visual Studio 2015\Projects\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.pdb
+C:\Users\X556\Desktop\Yazılım Sınama\YazılımSınamaÖdev1\YazılımSınamaÖdev1\bin\Debug\YazılımSınamaÖdev1.exe.config
+C:\Users\X556\Desktop\Yazılım Sınama\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.exe
+C:\Users\X556\Desktop\Yazılım Sınama\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.pdb
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaÖdev1\YazılımSınamaÖdev1\bin\Debug\YazılımSınamaÖdev1.exe.config
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.exe
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.pdb
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaÖdev1\YazılımSınamaÖdev1\bin\Debug\YazılımSınamaÖdev1.exe
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaÖdev1\YazılımSınamaÖdev1\bin\Debug\YazılımSınamaÖdev1.pdb
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.csprojResolveAssemblyReference.cache
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.Form1.resources
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.Properties.Resources.resources
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.csproj.GenerateResource.Cache
+C:\Users\X556\Desktop\github\YazılımSınamaÖdev1\YazılımSınamaÖdev1\bin\Debug\YazılımSınamaÖdev1.exe.config
+C:\Users\X556\Desktop\github\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.exe
+C:\Users\X556\Desktop\github\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.pdb
+C:\Users\ASUS\Desktop\github\YazılımSınamaÖdev1\YazılımSınamaÖdev1\bin\Debug\YazılımSınamaÖdev1.exe.config
+C:\Users\ASUS\Desktop\github\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.exe
+C:\Users\ASUS\Desktop\github\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.pdb
+C:\Users\ASUS\Desktop\github\YazılımSınamaÖdev1\YazılımSınamaÖdev1\bin\Debug\YazılımSınamaÖdev1.exe
+C:\Users\ASUS\Desktop\github\YazılımSınamaÖdev1\YazılımSınamaÖdev1\bin\Debug\YazılımSınamaÖdev1.pdb
+C:\Users\ASUS\Desktop\github\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\github\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.Form1.resources
+C:\Users\ASUS\Desktop\github\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\github\YazılımSınamaÖdev1\YazılımSınamaÖdev1\obj\Debug\YazılımSınamaÖdev1.csproj.GenerateResource.Cache
